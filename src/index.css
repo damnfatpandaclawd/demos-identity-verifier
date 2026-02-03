@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #010109;
+  color: #fafafa;
+}
+
+code, .mono {
+  font-family: "Source Code Pro", monospace;
+}
